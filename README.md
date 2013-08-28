@@ -1,4 +1,4 @@
-potential-ninja
-===============
+snapstart
+=========
 
-HTML5 front-end starting template; Hybrid of Foundation; Boilerplate and AngularJS seed project
+Frontend blank slate; hyrbrid of Boilerplate, Foundation and AnjularJS seed 
